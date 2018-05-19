@@ -1,0 +1,83 @@
+body {
+    background: url('../images/bg.jpg') fixed;
+    padding-top: 2%;
+}
+.container {
+    border-radius: 20px;
+    background: white;
+    border:  1px solid lightgray;
+    padding-top: 10px;
+
+}
+
+.second {
+    margin-top: 3%;
+    border-top: 1px solid lightgray;
+    padding-top: 2%;
+}
+
+header {
+    background: darkblue;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    padding: 4% 0;
+    margin-bottom: 3%;
+    border-radius: 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+header img {
+    width: 40px;
+    margin-top: -5px;
+}
+
+.blackP {
+    width: 20px;
+}
+
+form {
+    width: 100%;
+
+}
+footer {
+    text-align: center;
+    width: 100%;
+    background: darkgray;
+    padding: 4% 0;
+
+margin-top: 3%;
+}
+.form-group {
+    width: 90%;
+    margin: 2% auto;
+}
+
+.trash {
+    width: 16px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#topArticle-Container {
+    width: 90%;
+    margin: 2% auto;
+    border: 1px solid lightgrey;
+    padding: 10px;
+}
+
+#topArticle-Container h4 {
+    font-size: 1rem;
+}
+
+#topArticle-Container h3 {
+    font-size: 1.5rem;
+}
+
+#artice-link {
+    margin-bottom: 0;
+}
